@@ -12,4 +12,4 @@ async-trait = "0.1"
 bb8 = { path = "../" }
 futures = "0.3"
 tokio = "0.2"
-redis = { git = "https://github.com/Marwes/redis-rs/", branch = "async_await_api" }
+redis = { git = "https://github.com/Marwes/redis-rs/", rev = "75bfe24f7f34faad2460343699bd65bdcfaabaf0" }
